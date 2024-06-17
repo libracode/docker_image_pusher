@@ -5,5 +5,9 @@ xhofe/alist:latest
 docker.io/flannel/flannel-cni-plugin:v1.2.0
 mysql:5.7.44
 redis
+portainer/portainer
+portainer/agent
+jenkins/jenkins
+bladex/alpine-java:openjdk8-openj9_cn_slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

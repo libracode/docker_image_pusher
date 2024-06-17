@@ -9,6 +9,11 @@ portainer/portainer
 portainer/agent
 jenkins/jenkins
 grafana/grafana
+rabbitmq
+node
+elasticsearch
+logstash
+kibana
 bladex/alpine-java:openjdk8-openj9_cn_slim
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

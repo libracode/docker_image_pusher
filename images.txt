@@ -10,11 +10,11 @@ jenkins/jenkins
 grafana/grafana
 rabbitmq
 node
-elasticsearch
-logstash
-kibana
 tomcat
 bladex/alpine-java:openjdk8-openj9_cn_slim
 bladex/alpine-java:8_server-jre_cn_unlimited
+elasticsearch
+logstash
+kibana
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

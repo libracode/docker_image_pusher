@@ -16,5 +16,6 @@ elasticsearch
 logstash
 kibana
 bladex/alpine-java:openjdk8-openj9_cn_slim
+bladex/alpine-java:8_server-jre_cn_unlimited
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

@@ -12,6 +12,7 @@ elasticsearch:7.17.22
 logstash:7.17.22
 kibana:7.17.22
 elastic/filebeat:7.17.22
+mobz/elasticsearch-head:5
 tomcat
 rabbitmq
 node

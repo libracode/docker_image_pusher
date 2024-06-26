@@ -8,14 +8,14 @@ portainer/portainer
 portainer/agent
 jenkins/jenkins
 grafana/grafana
+elasticsearch:7.17.22
+logstash:7.17.22
+kibana:7.17.22
+tomcat
 rabbitmq
 node
 kubeguide/tomcat-app:v1
-tomcat
 bladex/alpine-java:openjdk8-openj9_cn_slim
 bladex/alpine-java:8_server-jre_cn_unlimited
-elasticsearch
-logstash
-kibana
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist

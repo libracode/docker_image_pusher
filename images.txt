@@ -11,6 +11,7 @@ grafana/grafana
 elasticsearch:7.17.22
 logstash:7.17.22
 kibana:7.17.22
+elastic/filebeat:7.17.22
 tomcat
 rabbitmq
 node

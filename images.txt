@@ -3,6 +3,7 @@ nginx
 docker.io/flannel/flannel-cni-plugin:v1.2.0
 docker.io/flannel/flannel:v0.22.3
 kubesphere/ks-installer:v3.4.1
+registry.k8s.io/metrics-server/metrics-server:v0.7.1
 mysql:5.7.44
 redis
 portainer/portainer

@@ -21,6 +21,7 @@ prom/prometheus
 prom/node-exporter
 prom/mysqld-exporter
 prom/alertmanager
+prom/blackbox-exporter
 google/cadvisor
 grafana/grafana
 tomcat

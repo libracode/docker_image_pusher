@@ -24,6 +24,7 @@ prom/alertmanager
 prom/blackbox-exporter
 google/cadvisor
 grafana/grafana
+powerjob/powerjob-server:4.3.6
 tomcat
 rabbitmq
 node

@@ -17,6 +17,12 @@ logstash:7.17.22
 kibana:7.17.22
 elastic/filebeat:7.17.22
 mobz/elasticsearch-head:5
+prom/prometheus
+prom/node-exporter
+prom/mysqld-exporter
+prom/alertmanager
+google/cadvisor
+grafana/grafana
 tomcat
 rabbitmq
 node

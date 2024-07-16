@@ -25,6 +25,7 @@ prom/blackbox-exporter
 google/cadvisor
 grafana/grafana
 powerjob/powerjob-server:4.3.6
+nacos/nacos-server
 tomcat
 rabbitmq
 node

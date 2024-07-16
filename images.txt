@@ -26,6 +26,7 @@ google/cadvisor
 grafana/grafana
 powerjob/powerjob-server:4.3.6
 nacos/nacos-server
+bladex/sentinel-dashboard
 tomcat
 rabbitmq
 node

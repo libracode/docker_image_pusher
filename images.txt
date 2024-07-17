@@ -27,7 +27,9 @@ grafana/grafana
 powerjob/powerjob-server:4.3.6
 nacos/nacos-server
 bladex/sentinel-dashboard
-sonarqube:8.9.10-community
+sonarqube:lts-community
+sonarqube:9.9.6-community
+postgres:12.19
 tomcat
 rabbitmq
 node

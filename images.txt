@@ -32,6 +32,7 @@ sonarqube:9.9.6-community
 postgres:12.19
 langgenius/dify-api:0.6.15
 langgenius/dify-web:0.6.15 
+postgres:15-alpine
 redis:6-alpine
 langgenius/dify-sandbox:0.2.1
 ubuntu/squid:latest

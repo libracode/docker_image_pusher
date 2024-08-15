@@ -1,5 +1,6 @@
 nginx
 #支持私库
+mysql:8.0.18
 docker.io/flannel/flannel-cni-plugin:v1.2.0
 docker.io/flannel/flannel:v0.22.3
 kubesphere/ks-installer:v3.4.1

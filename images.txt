@@ -1,1 +1,1 @@
-bitnami/zookeeper:3.8.4
+qdrant/qdrant

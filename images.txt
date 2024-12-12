@@ -1,1 +1,1 @@
-qdrant/qdrant
+searxng/searxng

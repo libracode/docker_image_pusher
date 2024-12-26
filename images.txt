@@ -1,1 +1,2 @@
-redis:alpine
+python:3.11-slim
+node:20-slim

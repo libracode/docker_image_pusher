@@ -1,6 +1,1 @@
-langfuse/langfuse-worker:3
-langfuse/langfuse:3
-clickhouse/clickhouse-server
-minio/minio
-redis:7
-postgres
+python:3.12-slim

@@ -1,1 +1,1 @@
-valkey/valkey:8
+infiniflow/ragflow:v0.18.0-slim

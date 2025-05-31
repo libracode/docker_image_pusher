@@ -1,3 +1,1 @@
-node:22-slim
-golang:1.24
-rust:1-slim
+node:18-slim

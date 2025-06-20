@@ -1,3 +1,1 @@
-bitnami/kafka:3.9.0
-apache/flink:1.16.0-scala_2.12-java11
-apache/flink-ops-playground:1-FLINK-1.16-scala_2.12
+ericwong/firecrawl:1.11.0

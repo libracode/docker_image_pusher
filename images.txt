@@ -1,1 +1,1 @@
-ericwong/firecrawl:1.11.0
+zendesk/maxwell

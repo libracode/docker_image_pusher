@@ -1,1 +1,1 @@
-prom/mysqld-exporter
+timonwong/prometheus-webhook-dingtalk

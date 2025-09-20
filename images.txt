@@ -1,1 +1,1 @@
-google/cadvisor
+prom/mysqld-exporter

@@ -1,1 +1,1 @@
-bitnami/cadvisor:latest
+prom/mysqld-exporter:latest

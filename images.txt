@@ -1,1 +1,1 @@
-mysql:8.3.0
+bitnami/cadvisor:latest

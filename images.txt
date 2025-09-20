@@ -1,1 +1,1 @@
-timonwong/prometheus-webhook-dingtalk
+prom/alertmanager

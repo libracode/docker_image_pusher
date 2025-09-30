@@ -1,1 +1,1 @@
-jenkinsci/blueocean
+dockerproxy.cn/mysql:5.6

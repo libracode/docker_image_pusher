@@ -1,1 +1,2 @@
-dockerproxy.cn/mysql:5.6
+apache/doris:fe-2.1.9
+apache/doris:be-2.1.9

@@ -1,1 +1,1 @@
-mikesplain/openvas:9
+redis:7.4.7

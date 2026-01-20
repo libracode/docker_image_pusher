@@ -1,1 +1,1 @@
-redis:7.4.7
+bitnami/jmx-exporter:latest

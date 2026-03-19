@@ -1,1 +1,1 @@
-bitnami/jmx-exporter:latest
+python:3.9-slim

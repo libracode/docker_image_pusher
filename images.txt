@@ -1,1 +1,1 @@
-bladex/alpine-java:openjdk17_cn_slim
+emqx/emqx:5.8.9
